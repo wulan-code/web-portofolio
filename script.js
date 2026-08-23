@@ -1,1 +1,1 @@
-console.log("Web Portofolio Wulandari Siap!");
+console.log("Web Portofolio Wulandari");
