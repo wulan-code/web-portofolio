@@ -1,6 +1,6 @@
 # Web Portfolio Project - MP2S TI 2026 👋
 
-Welcome to my repository! My name is Wulandari, and I am a first-year student majoring in Information Technology at Politeknik Negeri Madiun. This repository is dedicated to my web development assignment for ORMIT 2026.
+Welcome to my repository! My name is Wulandari, and I am a first-year student majoring in Information Technology at Politeknik Negeri Madiun. This repository is dedicated to my web development assignment for MPS2 TI 2026.
 
 ## 🚀 About Me
 - 🎓 **Education:** D3 Information Technology, Politeknik Negeri Madiun
